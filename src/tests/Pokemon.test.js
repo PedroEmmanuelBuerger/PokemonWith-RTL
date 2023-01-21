@@ -67,3 +67,4 @@ describe('testando informações de cada card dos pokemons', () => {
     expect(star).toBeInTheDocument();
   });
 });
+//
