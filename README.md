@@ -1,35 +1,29 @@
 # PokemonWith-RTL
-O PokemonWith-RTL é um projeto desenvolvido para criar uma aplicação que permite aos usuários explorarem e pesquisarem informações sobre os Pokémons. O projeto é desenvolvido com a abordagem de Testes de Componentes com RTL (React Testing Library), garantindo a qualidade e robustez da aplicação.
 
-## Funcionalidades
-O projeto possui as seguintes funcionalidades:
-- Pesquisa de Pokémons: permite aos usuários pesquisarem por um Pokémon específico através de um campo de pesquisa.
-- Detalhes do Pokémon: exibe informações detalhadas sobre um Pokémon selecionado, como tipo, habilidades, estatísticas e evoluções.
-- Lista de Pokémons: exibe uma lista de todos os Pokémons disponíveis, permitindo aos usuários explorarem as informações básicas de cada um.
-- Testes automatizados: o projeto é desenvolvido com testes automatizados utilizando a RTL, garantindo a integridade e a correta renderização dos componentes.
+PokemonWith-RTL is a project developed to create an application that allows users to explore and search for information about Pokémon. The project is built using React Testing Library (RTL) for component testing, ensuring the application's quality and robustness.
 
-## Tecnologias Utilizadas
-O projeto foi desenvolvido utilizando as seguintes tecnologias:
-- React
-- React Testing Library (RTL)
-- JavaScript
-- CSS
+## Features
 
-## Instalação
+The project includes the following features:
 
-Para instalar e executar o projeto localmente, siga os passos abaixo:
+- **Pokémon Search:** Allows users to search for a specific Pokémon through a search field.
+- **Pokémon Details:** Displays detailed information about a selected Pokémon, such as type, abilities, stats, and evolutions.
+- **Pokémon List:** Shows a list of all available Pokémon, allowing users to explore basic information about each one.
+- **Automated Tests:** The project is developed with automated tests using RTL, ensuring component integrity and proper rendering.
 
-1. Clone o repositório para sua máquina local:
-git clone https://github.com/PedroEmmanuelBuerger/project-PokemonWith-RTL.git
-2. Navegue até a pasta do projeto:
-cd project-PokemonWith-RTL
-3. Instale as dependências executando o comando: npm install 
-4. Inicie a aplicação: NPM START
+## Technologies Used
 
-## Principais Aprendizados
-Durante o desenvolvimento deste projeto, foram aplicados os conceitos de desenvolvimento web utilizando React e a abordagem de Testes de Componentes com RTL. A criação dos testes automatizados garantiu uma maior confiabilidade e manutenibilidade da aplicação, além de fornecer uma boa prática de desenvolvimento.
+The project was developed using the following technologies:
 
-## Conclusão
-O PokemonWith-RTL é uma aplicação que permite aos usuários explorarem e pesquisarem informações sobre os Pokémons de forma fácil e intuitiva. A utilização da abordagem de Testes de Componentes com RTL assegura a qualidade e a correta renderização dos componentes, proporcionando uma ótima experiência aos usuários.
+- **React**
+- **React Testing Library (RTL)**
+- **JavaScript**
+- **CSS**
 
+## Key Learnings
 
+During the development of this project, I applied web development concepts using React and the component testing approach with RTL. The creation of automated tests ensured greater reliability and maintainability of the application, providing good development practices.
+
+## Conclusion
+
+PokemonWith-RTL is an application that allows users to explore and search for information about Pokémon in an easy and intuitive way. Using RTL for component testing ensures the quality and correct rendering of components, providing a great user experience.
